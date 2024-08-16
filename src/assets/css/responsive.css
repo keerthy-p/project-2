@@ -1,0 +1,27 @@
+@media only screen and (max-width: 1279px) {}
+
+@media only screen and (max-width:1024px) {
+    .image-style {
+        margin-top: -25%;
+    }
+    .nav-link-style ul li {
+        padding-right: 10px;
+    }
+    .nav-style {
+        display: none;
+    }
+    .nav-link-style{
+        display: none;
+    }
+    .menu-icon{
+        display: table;
+        margin: 0 auto;
+    }
+    .mobile-header{
+        display: block;
+    }
+    .res-header{
+        display: none;
+    }
+    
+}
